@@ -1,0 +1,192 @@
+	</script>
+	
+	<!-- #BeginEditable "doctitle" -->
+	<title>S-IRCLE</title>
+	<!-- #EndEditable -->
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link rel="icon" href="images/logo_sircle.png" type="image/x-gif">
+
+    <meta name="description" content="S-IRCLE - Joint research projet" />
+    <meta name="keywords" content="S-IRLCE, Biogas filter, Sulfur fertilizer, Vietnam, Technology, Recycability">
+    <meta name="author" content="TU Berlin, Technische Universität Berlin">
+
+
+	</head>
+
+<body>
+
+<div id="wrapper">
+
+<div id="fixedtop">
+	
+		<div id="top">
+			
+			<div id="logo">
+				<img src="images/logo_sircle.png" height="75px" width="75px" alt=""/>
+			</div>
+			
+			<div id="social-media" style="width: 160px">
+				<ul>
+					<li>
+                        <a href="http://www.circulareconomy.tu-berlin.de/abfallwirtschaft/parameter/en/" target="_blank">
+                            <img src="images/TU_Logo_lang_RGB_rot.png" height="50x" width="80px" />
+                        </a>
+					</li>
+				</ul>
+						
+			</div>
+			
+		</div>
+		
+		<div id="topnav">
+			<ul>
+				<li><a href="index.html" style="width: 144px"><center>WELCOME</center></a></li>
+				<li><a href="EN_project.html" style="width: 144px"><center>PROJECT</center></a></li>		
+				<li><a href="EN_partner.html" style="width: 144px"><center>PARTNER</center></a></li>
+				<li><a href="EN_contact.html" style="width: 144px"><center>CONTACT</center></a></li>
+                <li><a href="EN_gallery.html" style="width: 144px"><center>DOCUMENTS</center></a></li>
+                <li><a href="index.html" style="width: 20px"><center><img src="images/uk_flag.png" alt="" style="width:22.4667px;height:15px;"></center></a></li>
+                <li><a href="VN_index.html" style="width: 20px"><center><img src="images/vn_flag.png" alt="" style="width:22.4667px;height:15px;"></center></a></li>
+			</ul>
+		</div>
+
+		<div id="my-slideshow">
+			
+			<ul class="bjqs">
+				
+				<li>
+					<img src="images/banner1.jpg" width="900" height="140" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner3.jpg" width="900" height="140" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner4.jpg" width="900" height="140" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner6.jpg" width="900" height="140" alt=""/>
+				</li>
+
+			</ul>
+				
+		</div>
+
+		<div id="subbanner">
+			<h3>Export Initiative for Environmental Protection</h3>
+		</div>
+
+</div>
+
+
+
+
+<!-- 2nd part -->
+
+		<!-- #BeginEditable "Rightside" -->
+
+				<div id="rightside">	
+
+			<img src="images/logo_sircle.png" style="margin:0 0 0 70px;" height="100">
+            </br>
+            
+            <p><b style="margin:0 0 0 40px;color:#34622a;">      March 2023 – February 2025 </b></p>
+		</div>
+
+		<!-- #EndEditable -->
+		
+		
+<!-- 3rd part -->
+
+<div id="footer">
+			</br>
+			<img src="images/s_support.png" style="margin:0 0 0 100px; height="130" />
+            </br>
+			<p>&copy; 2023 Technische Universität Berlin | Institute of Environmental Technology | Chair of Circular Economy and Recycling Technology</p>
+</div>
+		
+		
+		</script>
+	
+	<!-- #BeginEditable "doctitle" -->
+	<title>S-IRCLE</title>
+	<!-- #EndEditable -->
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link rel="icon" href="images/logo_sircle.png" type="image/x-gif">
+
+    <meta name="description" content="S-IRCLE - Joint research projet" />
+    <meta name="keywords" content="S-IRLCE, Biogas filter, Sulfur fertilizer, Vietnam, Technology, Recycability">
+    <meta name="author" content="TU Berlin, Technische Universität Berlin">
+
+
+	</head>
+
+<body>
+
+<div id="wrapper">
+
+<div id="fixedtop">
+	
+		<div id="top">
+			
+			<div id="logo">
+				<img src="images/logo_sircle.png" height="75px" width="75px" alt=""/>
+			</div>
+			
+			<div id="social-media" style="width: 160px">
+				<ul>
+					<li>
+                        <a href="http://www.circulareconomy.tu-berlin.de/abfallwirtschaft/parameter/en/" target="_blank">
+                            <img src="images/TU_Logo_lang_RGB_rot.png" height="50x" width="80px" />
+                        </a>
+					</li>
+				</ul>
+						
+			</div>
+			
+		</div>
+		
+		<div id="topnav">
+			<ul>
+				<li><a href="index.html" style="width: 144px"><center>CHÀO MỪNG</center></a></li>
+				<li><a href="EN_project.html" style="width: 144px"><center>DỰ ÁN</center></a></li>		
+				<li><a href="EN_partner.html" style="width: 144px"><center>ĐỐI TÁC</center></a></li>
+				<li><a href="EN_contact.html" style="width: 144px"><center>LIÊN HỆ</center></a></li>
+                <li><a href="EN_gallery.html" style="width: 144px"><center>TÀI LIỆU</center></a></li>
+                <li><a href="index.html" style="width: 20px"><center><img src="images/uk_flag.png" alt="" style="width:22.4667px;height:15px;"></center></a></li>
+                <li><a href="VN_index.html" style="width: 20px"><center><img src="images/vn_flag.png" alt="" style="width:22.4667px;height:15px;"></center></a></li>
+			</ul>
+		</div>
+
+		<div id="my-slideshow">
+			
+			<ul class="bjqs">
+				
+				<li>
+					<img src="images/banner1.jpg" width="900" height="140" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner3.jpg" width="900" height="140" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner4.jpg" width="900" height="140" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner6.jpg" width="900" height="140" alt=""/>
+				</li>
+
+			</ul>
+				
+		</div>
+
+		<div id="subbanner">
+			<h3>Chương Trình Xuất Khẩu Sáng Kiến Bảo Vệ Môi Trường</h3>
+		</div>
+
+</div>
+		

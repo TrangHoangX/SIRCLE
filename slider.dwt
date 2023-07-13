@@ -1,0 +1,178 @@
+﻿<!DOCTYPE HTML>
+<html>
+
+<head>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/slider.js"></script>
+	
+	<LINK REL="shortcut icon" HREF="images/UP_logo.gif" />
+	
+	<link href="css/slider.css" rel="stylesheet" type="text/css" media="screen" />
+	
+	<script type="text/javascript">
+	$(document).ready(function(){
+	$('#my-slideshow').bjqs({
+	'width' : 900,
+	'height' : 100,
+	'showMarkers' : false,
+	'showControls' : false,
+	'centerMarkers' : false,
+	
+	// animation values
+	'animtype' : 'slide', // accepts 'fade' or 'slide'
+	'animduration' : 600, // how fast the animation are
+	'animspeed' : 3000, // the delay between each slide
+	'automatic' : true,
+	});
+	});	
+	</script>
+	
+	<!-- #BeginEditable "doctitle" -->
+	<title>UPgrade</title>
+	<!-- #EndEditable -->
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link rel="icon" href="images/UP_logo.gif" type="image/x-gif">
+
+	<meta name="description" content="UPgrade-Projekt für integrierte Ansätze zur Rückgewinnung von Spurenmetallen und zur Verbesserung der Wertschöpfung aus Elektro- und 
+Elektronikaltgeräten" />
+
+	</head>
+
+<body>
+
+<div id="wrapper">
+
+<div id="fixedtop">
+	
+		<div id="top">
+			
+			<div id="logo">
+				<img src="images/UPgrade_logo.svg" height="75px" alt=""/>
+			</div>
+			
+			<div id="social-media" style="width: 249px">
+				<ul>
+					<li>
+						<img src="images/TU_Lasu_logo.svg" height="75px" alt=""/>
+					</li>
+				</ul>
+						
+			</div>
+			
+		</div>
+		
+		<div id="topnav">
+			<ul>
+				<li><a href="index.html" style="width: 90px"><center>WILLKOMMEN</center></a></li>
+				<li><a href="de_projekt.html" style="width: 90px"><center>PROJEKT</center></a></li>
+				<li><a href="de_info.html" style="width: 90px"><center>INFO</center></a></li>
+				<li><a href="de_konsortium.html" style="width: 90px"><center>KONSORTIUM</center></a></li>
+				<li><a href="de_intranet.html" style="width: 90px"><center>INTRANET</center></a></li>
+				<li><a href="de_kontakt.html" style="width: 90px"><center>KONTAKT</center></a></li>
+				<li><a href="index.html" style="width: 20px"><center><img src="images/de.gif" height="15" alt=""/></center></a></li>
+				<li><a href="eng_index.html" style="width: 20px"><center><img src="images/uk.gif"  height="15" alt=""/></center></a></li>
+			</ul>
+		</div>
+
+		<div id="my-slideshow">
+			
+			<ul class="bjqs">
+				
+				<li>
+					<img src="images/banner1.jpg" width="900" height="100" alt=""/>
+				</li>
+				
+				<li>
+					<img src="images/banner2.jpg" width="900" height="100" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner3.jpg" width="900" height="100" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner4.jpg" width="900" height="100" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner5.jpg" width="900" height="100" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner6.jpg" width="900" height="100" alt=""/>
+				</li>
+				
+				<li>
+					<img src="images/banner7.jpg" width="900" height="100" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner8.jpg" width="900" height="100" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner9.jpg" width="900" height="100" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner10.jpg" width="900" height="100" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner11.jpg" width="900" height="100" alt=""/>
+				</li>
+				
+				<li>
+					<img src="images/banner12.jpg" width="900" height="100" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner13.jpg" width="900" height="100" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner14.jpg" width="900" height="100" alt=""/>
+				</li>
+
+			</ul>
+				
+		</div>
+
+		<div id="subbanner">
+			<h3>Projekt für integrierte Ansätze zur Rückgewinnung von Spurenmetallen und zur Verbesserung der Wertschöpfung aus <br>Elektro- und 
+Elektronikaltgeräten </h3>
+		</div>
+
+</div>
+
+<div id="content-wrapper">
+
+		<!-- #BeginEditable "Content" -->
+
+		<div id="content">
+			<h1>content</h1>
+			<p>Text</p>
+		</div>
+
+		<!-- #EndEditable -->
+
+		<!-- #BeginEditable "Rightside" -->
+
+		<div id="rightside">
+			
+		</div>
+
+		<!-- #EndEditable -->
+
+</div>
+</div>
+
+
+<div id="footer">
+			<p>&copy; 2013 Technische Universität Berlin | Institut für Technischen Umweltschutz | Fachgebiet Abfallwirtschaft | Straße des 17. Juni 135 | 10623 Berlin</p>
+</div>
+
+
+	
+</body>
+</html>

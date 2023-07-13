@@ -1,0 +1,90 @@
+﻿<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>UPgrade</title>
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link rel="icon" href="images/UP_logo.gif" type="image/x-gif">
+	<style type="text/css">
+	.auto-style1 {
+		text-align: center;
+	}
+	.auto-style2 {
+	font-size: medium;
+	text-align: center;
+	background-color: #000000;
+}
+	</style>
+</head>
+
+<body>
+
+<div id="wrapper">
+	
+		<div id="top">
+			
+			<div id="logo">
+				<img src="images/UPgrade_logo.jpg" width="170" height="72" alt=""/>
+			</div>
+			
+			<div id="social-media" style="height: 61px; width: 176px">
+				<ul>
+					<li>
+					<img src="images/LasuTU_logo.jpg" height="35" width="246" alt=""/></li>
+				</ul>
+						
+			</div>
+			
+		</div>
+		
+		<div id="topnav">
+			<ul>
+				<li class="auto-style1">
+				<a href="index.html" style="width: 90px">HOME</a></li>
+				<li><a href="idee.html" style="width: 90px">IDEE</a></li>
+				<li><a href="ziele.html" style="width: 90px">ZIELE</a></li>
+				<li><a href="ansatz.html" style="width: 90px">ANSATZ</a></li>
+				<li><a href="konsortium.html" style="width: 90px">KONSORTIUM</a></li>
+				<li class="auto-style1">
+				<a href="kontakt.html" style="width: 90px">KONTAKT</a></li>
+				<li><img alt="" src="images/de.gif" align="bottom" alt=""/></li>
+				<li><img alt="" src="images/uk.gif" align="bottom"alt=""></li>
+				
+				
+			</ul>
+		</div>
+
+		<div id="banner">
+			<img src="images/banner1.jpg" width="100%" alt=""/>
+		</div>
+
+		<div id="subbanner" class="auto-style2">
+			Integrierte Ansätze zur Rückgewinnung von Spurenmetallen und zur Verbesserung der Wertschöpfung aus Elektro- und 
+Elektronikaltgeräten 
+		</div>
+
+		<!-- #BeginEditable "Content" -->
+
+		<div id="content">
+			<h1>content</h1>
+			<p>Text</p>
+		</div>
+
+		<!-- #EndEditable -->
+
+		<!-- #BeginEditable "Rightside" -->
+
+		<div id="rightside">
+			
+		</div>
+
+		<!-- #EndEditable -->
+
+		<div id="footer">
+			<p>&copy; 2012 Technische Universität Berlin | Institut für Technischen Umweltschutz | Fachgebiet Abfallwirtschaft | Straße des 17. Juni 135 | 10623 Berlin</p>
+		</div>
+
+	</div>
+	
+</body>
+</html>

@@ -1,0 +1,194 @@
+﻿<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- #BeginTemplate "slider.dwt" -->
+
+<head>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/slider.js"></script>
+	
+	<LINK REL="shortcut icon" HREF="images/UP_logo.gif" />
+	
+	<link href="css/slider.css" rel="stylesheet" type="text/css" media="screen" />
+	
+	<script type="text/javascript">
+	$(document).ready(function(){
+	$('#my-slideshow').bjqs({
+	'width' : 900,
+	'height' : 100,
+	'showMarkers' : false,
+	'showControls' : false,
+	'centerMarkers' : false,
+	
+	// animation values
+	'animtype' : 'slide', // accepts 'fade' or 'slide'
+	'animduration' : 600, // how fast the animation are
+	'animspeed' : 5000, // the delay between each slide
+	'automatic' : true,
+	});
+	});	
+	</script>
+	
+	<!-- #BeginEditable "doctitle" -->
+	<title>BioRist</title>
+	<!-- #EndEditable -->
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+	<link rel="icon" href="images/Logo_BioRist_transparent.png" type="image/x-gif">
+
+	<meta name="description" content="BioRist Description here" />
+
+	</head>
+
+<body>
+
+<div id="wrapper">
+
+<div id="fixedtop">
+	
+		<div id="top">
+			
+			<div id="logo">
+				<img src="images/Logo_BioRist_transparent.png" height="75px" alt=""/>
+			</div>
+			
+			<div id="social-media" style="width: 160px">
+				<ul>
+					<li>
+						<img src="images/TU_Logo_kurz_RGB_rot.tif" height="75px" width="130px"/>
+					</li>
+				</ul>
+						
+			</div>
+			
+		</div>
+		
+		<div id="topnav">
+			<ul>
+				<li><a href="index.html" style="width: 185px"><center>WELCOME</center></a></li>
+				<li><a href="EN_project.html" style="width: 185px"><center>PROJECT</center></a></li>		
+				<li><a href="EN_partner.html" style="width: 185px"><center>PARTNER</center></a></li>
+				<li><a href="EN_contact.html" style="width: 185px"><center>CONTACT</center></a></li>
+                <li><a href="index.html" style="width: 20px"><center></center>EN</a></li>
+                <li><a href="index.html" style="width: 20px"><center></center>VN</a></li>
+			</ul>
+		</div>
+
+		<div id="my-slideshow">
+			
+			<ul class="bjqs">
+				
+				<li>
+					<img src="images/banner1.jpg" width="900" height="100" alt=""/>
+				</li>
+				
+				<li>
+					<img src="images/banner2.jpg" width="900" height="100" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner3.jpg" width="900" height="100" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner4.jpg" width="900" height="100" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner5.jpg" width="900" height="100" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner6.jpg" width="900" height="100" alt=""/>
+				</li>
+				
+				<li>
+					<img src="images/banner7.jpg" width="900" height="100" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner8.jpg" width="900" height="100" alt=""/>
+				</li>
+               
+				<li>
+					<img src="images/banner9.jpg" width="900" height="100" alt=""/>
+				</li>
+			 <!--
+				<li>
+					<img src="images/banner10.jpg" width="900" height="100" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner11.jpg" width="900" height="100" alt=""/>
+				</li>
+				
+				<li>
+					<img src="images/banner12.jpg" width="900" height="100" alt=""/>
+				</li>
+			
+				<li>
+					<img src="images/banner13.jpg" width="900" height="100" alt=""/>
+				</li>
+
+				<li>
+					<img src="images/banner14.jpg" width="900" height="100" alt=""/>
+				</li>
+                -->
+			</ul>
+				
+		</div>
+
+		<div id="subbanner">
+			<h3>Joint research project for an innovative process technology for biogas production from rice straw</h3>
+		</div>
+
+</div>
+
+<div id="content-wrapper">
+
+		<!-- #BeginEditable "Content" -->
+
+		<div id="content">
+			<h1>Welcome to the BioRist project</h1>
+			<p>Development and integration of an innovative process technology for biogas production from rice straw in regional value chains in rural areas in South East Asia under consideration of sustainable development and climate protection – case Vietnam</p>
+			<!--<p>Ziel des Projektes BioRist ist es, ein innovatives und technisch umsetzbares Verfahren zu entwickeln, durch welches Reisstroh enzymatisch und bakteriell zersetzt wird, um die anaerobe Vergärung und Umsetzung der Cellulose zu nutzbarem Biogas zu ermöglichen. Am Beispiel einer dreistufige Pilotanlage im Mekongdelta/Vietnam soll gezeigt werden, dass das Verfahren in der Lage ist, klimaneutral Energie zu gewinnen, Methanemissionen, die durch den anaeroben Abbau des Reisstrohs in den Feldern entstehen, zu reduzieren und Dünger zu erzeugen und unter Berücksichtigung lokaler Akteure nachhaltig in regionale Wertschöpfungsketten integriert werden kann. 
+			-->
+			<h2>NEWS</h2>
+			<hr>
+			<p>----- March 21, 2016 -----<br>
+				Project meeting in Ho Chi Minh City. 
+			</p>
+            <p>
+                ----- February 1, 2016 -----<br>
+                Project kickoff in Berlin.
+            </p>
+		</div>
+
+		<!-- #EndEditable -->
+
+		<!-- #BeginEditable "Rightside" -->
+
+		<div id="rightside">			
+			<img src="images/Logo_BioRist_transparent.png" height="170" />
+            </br>
+            <img src="images/BMBFen.jpg" height="120" />
+            </br>
+            <img src="images/DLR.jpg" height="100" />
+            </br>
+            <p><b>Feb 2016 – Jan 2019</b></p>
+		</div>
+
+		<!-- #EndEditable -->
+
+</div>
+</div>
+
+
+<div id="footer">
+			<p>&copy; 2016 Technische Universität Berlin | Institute of Environmental Technology | Chair of Circular Economy and Recycling Technology</p>
+</div>
+
+
+	
+</body>
+<!-- #EndTemplate -->
+</html>
